@@ -13,5 +13,5 @@ envdiff -source={source_path} -target={target_path}
 ```
 example :
 ```bash
-envdiff -source .env -target .env.bak
+envdiff -source=.env -target=.env.bak
 ````
