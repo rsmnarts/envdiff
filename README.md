@@ -4,7 +4,7 @@ How to use ?
 
 - First, you need install envdiff in your local with go
 ```bash
-go install github.com/rsmnarts/envdiff
+go install github.com/rsmnarts/envdiff@latest
 ```
 
 - then, you run command like this
