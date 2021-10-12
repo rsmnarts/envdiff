@@ -1,7 +1,6 @@
 # envdiff
 
-[![Actions Status](https://github.com/rsmnarts/envdiff/workflows/build/badge.svg)](https://github.com/rsmnarts/envdiff/actions)
-[![codecov](https://codecov.io/gh/rsmnarts/envdiff/branch/master/graph/badge.svg)](https://codecov.io/gh/rsmnarts/envdiff)
+[![codecov](https://codecov.io/gh/rsmnarts/envdiff/branch/main/graph/badge.svg?token=slMBQ6cxp0)](https://codecov.io/gh/rsmnarts/envdiff)
 
 How to use ?
 
