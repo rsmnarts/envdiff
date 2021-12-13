@@ -29,5 +29,6 @@ func main() {
 
 	output := checkDiff(sourceData, targetData)
 	fmt.Println("Difference of Key Environment:\n", strings.Join(output[0], "\n"))
+	fmt.Println("##################")
 	fmt.Println("Difference of Key-Value Environment:\n", strings.Join(output[1], "\n"))
 }
